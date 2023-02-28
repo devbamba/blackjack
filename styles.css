@@ -1,5 +1,6 @@
 body{
-    background-color: rgb(57, 146, 57);
+    background-image: url(fond.jpg);
+    background-size: cover;
     text-align: center;
     margin-top: 50px;
 }
